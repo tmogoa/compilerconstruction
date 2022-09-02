@@ -1,2 +1,2 @@
 # compilerconstruction
-Assignment submissions for compiler construction
+Assignment for compiler construction unit are submitted here as notebooks from Google Colab.
